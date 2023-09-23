@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\If_else\If_else\bin\Debug\If_else.exe.config
+C:\Users\Пользователь\Desktop\If_else\If_else\bin\Debug\If_else.exe
+C:\Users\Пользователь\Desktop\If_else\If_else\bin\Debug\If_else.pdb
+C:\Users\Пользователь\Desktop\If_else\If_else\obj\Debug\If_else.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\If_else\If_else\obj\Debug\If_else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\If_else\If_else\obj\Debug\If_else.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\If_else\If_else\obj\Debug\If_else.exe
+C:\Users\Пользователь\Desktop\If_else\If_else\obj\Debug\If_else.pdb
